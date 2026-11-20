@@ -297,7 +297,7 @@ Also ensure that passwords are securely hashed before storing them in the databa
 BCA Student | Aspiring Data Analyst / Software Developer
 
 GitHub:
-https://github.com/UDAYKUMAR692004
+https://github.com/BHARATHBS2005
 
 ## 📄 License
 
