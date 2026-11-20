@@ -292,7 +292,7 @@ Also ensure that passwords are securely hashed before storing them in the databa
 
 ## 👨‍💻 Developer
 
-**Uday Kumar B.K**
+**Bharath B S**
 
 BCA Student | Aspiring Data Analyst / Software Developer
 
